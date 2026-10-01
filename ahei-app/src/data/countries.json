@@ -1,0 +1,434 @@
+[
+  {
+    "country": "Algeria",
+    "country_iso2": "DZ",
+    "wikidata_count": 76,
+    "regulator_url": "https://www.mesrs.dz/fr/reseau-universitaire/",
+    "regulator_status": "official_MESRS_page_transcribed_57_university_network_entries_and_24_approved_private_HEI_entries_accessed_2026-09-28",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Angola",
+    "country_iso2": "AO",
+    "wikidata_count": 5,
+    "regulator_url": "https://www.mescti.gov.ao",
+    "regulator_status": "official_MESCTI_public_and_private_higher_education_institutions_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Benin",
+    "country_iso2": "BJ",
+    "wikidata_count": 21,
+    "regulator_url": "https://enseignementsuperieur.gouv.bj/universites/TYPE_UNIVERSITE_UNIVERSITE; https://enseignementsuperieur.gouv.bj/universites/TYPE_UNIVERSITE_ETABLISSEMENT_PRIVE",
+    "regulator_status": "partial_official_MESRS_universites_category_lists_6_cards_accessed_2026-09-29_private_category_shows_information_unavailable",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Botswana",
+    "country_iso2": "BW",
+    "wikidata_count": 4,
+    "regulator_url": "https://www.bqa.org.bw/registered-and-accredited-higher-education",
+    "regulator_status": "official_BQA_registered_and_accredited_higher_education_ETP_directory_captured_68_records_as_accessed_2026-09-28",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country_iso2": "BF",
+    "wikidata_count": 17,
+    "regulator_url": "https://www.mesrsi.gov.bf/fileadmin/user_upload/storage/images/Repertoire_des_Institutions_d_Enseignement_Superieur_et_de_Recherche_Publiques___filieres_et_UFR_.pdf",
+    "regulator_status": "extracted_official_register_16_public_IESR",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Burundi",
+    "country_iso2": "BI",
+    "wikidata_count": 14,
+    "regulator_url": "https://mesrs.gov.bi/annuaires-statistiques/; https://mesrs.gov.bi/wp-content/uploads/2026/06/Tome-3_Annuaire-2024-2025.pdf",
+    "regulator_status": "partial_official_MINESRS_2024-2025_student_census_table_transcribed_49_institution_named_rows_not_a_verified_approval_register",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Cabo Verde",
+    "country_iso2": "CV",
+    "wikidata_count": 6,
+    "regulator_url": "https://ses.gov.cv/instituicoes; https://minedu.gov.cv/",
+    "regulator_status": "partial_official_DGES_institutions_page_contains_empty_search_and_Universidades_footer_lists_10_labels_accessed_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Cameroon",
+    "country_iso2": "CM",
+    "wikidata_count": 20,
+    "regulator_url": "https://www.minesup.gov.cm/; https://www.minesup.gov.cm/index.php/instituts-prives-denseignement-superieur/",
+    "regulator_status": "official_MINESUP_lists_11_state_university_links_and_307_private_IPES_rows; page_narrative_says_approximately_430_private_IPES",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Central African Republic",
+    "country_iso2": "CF",
+    "wikidata_count": 23,
+    "regulator_url": "https://mesrsit-rca.org/etablissements-denseignement-superieur-prives; https://mesrsit-rca.org/luniversite-de-bangui",
+    "regulator_status": "extracted_official_register_24_institutions",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Chad",
+    "country_iso2": "TD",
+    "wikidata_count": 16,
+    "regulator_url": "https://mesrsfp.gouv.td/universites-detat/",
+    "regulator_status": "official_ministry_page_named_partial_list",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Comoros",
+    "country_iso2": "KM",
+    "wikidata_count": 20,
+    "regulator_url": "https://mineducomores.gouv.km/; https://www.univ-comores.km/",
+    "regulator_status": "official_MENESRS_national_university_network_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Republic of the Congo",
+    "country_iso2": "CG",
+    "wikidata_count": 3,
+    "regulator_url": "https://enseignementsup-recherche.gouv.cg/; https://www.umng.cg/",
+    "regulator_status": "official_MESRSIT_higher_education_institutions_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "country_iso2": "CI",
+    "wikidata_count": 32,
+    "regulator_url": "https://bac.mesrs-ci.net/offres/ets-prives; https://bac.mesrs-ci.net/offres/grdes-ecoles",
+    "regulator_status": "extracted_official_register_761_institutions",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "country_iso2": "CD",
+    "wikidata_count": 82,
+    "regulator_url": "https://minesursi.gouv.cd/?etablissements",
+    "regulator_status": "partial_official_MESU_directory_claims_complete_list_and_returns_1006_records_accessed_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Djibouti",
+    "country_iso2": "DJ",
+    "wikidata_count": 21,
+    "regulator_url": "http://www.mensur.gov.dj/; https://www.univ.edu.dj/",
+    "regulator_status": "official_MENSUR_national_higher_education_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Egypt",
+    "country_iso2": "EG",
+    "wikidata_count": 105,
+    "regulator_url": "https://mohesr.gov.eg/index.php?option=com_sppagebuilder&view=page&id=102; https://mohesr.gov.eg/index.php?option=com_sppagebuilder&view=page&id=111; https://mohesr.gov.eg/index.php?option=com_sppagebuilder&view=page&id=171; https://mohesr.gov.eg/index.php?option=com_sppagebuilder&view=page&id=189; https://mohesr.gov.eg/index.php?option=com_sppagebuilder&view=page&id=172",
+    "regulator_status": "partial_official_MoHE_government_28_private_37_national_29_and_technological_7_entries_captured_accessed_2026-09-28; foreign_branch_page_identified_not_yet_transcribed",
+    "deep_profile_count": 1
+  },
+  {
+    "country": "Equatorial Guinea",
+    "country_iso2": "GQ",
+    "wikidata_count": 14,
+    "regulator_url": "https://guineaecuatorialpress.com/; http://unge.education/main/",
+    "regulator_status": "official_MEEUD_recognized_universities_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Eritrea",
+    "country_iso2": "ER",
+    "wikidata_count": 24,
+    "regulator_url": "http://www.shabait.com/; http://www.eit.edu.er/",
+    "regulator_status": "official_NHERI_specialized_colleges_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Eswatini",
+    "country_iso2": "SZ",
+    "wikidata_count": 4,
+    "regulator_url": "https://eshec.org.sz/wp-content/uploads/2026/08/ESHEC-HEI-List-2026_Final_V9.pdf-10-Aug-26.pdf",
+    "regulator_status": "official_ESHEC_register_January_2026_updated_2026-08-10; seven_university_named_entries_transcribed_OCR_status_visual_QA_required",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Ethiopia",
+    "country_iso2": "ET",
+    "wikidata_count": 56,
+    "regulator_url": "https://moe.gov.et/sector-institutions-universties",
+    "regulator_status": "official_MoE_universities_sector_directory_transcribed_46_entries_accessed_2026-09-28; page_does_not_publish_accreditation_status",
+    "deep_profile_count": 1
+  },
+  {
+    "country": "Gabon",
+    "country_iso2": "GA",
+    "wikidata_count": 4,
+    "regulator_url": "https://enseignement-superieur.gouv.ga/2-actualites/402-cartographie-des-offres-de-formation-et-capacite-d-accueil-des-ees/",
+    "regulator_status": "extracted_official_register_17_institutions",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Gambia",
+    "country_iso2": "GM",
+    "wikidata_count": 10,
+    "regulator_url": "https://naqaa.gm/accredited-institutions/",
+    "regulator_status": "partial_official_NAQAA_Accredited_Institutions_page_Higher_Education_Institutions_table_transcribed_10_records_accessed_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Ghana",
+    "country_iso2": "GH",
+    "wikidata_count": 39,
+    "regulator_url": "https://gtec.edu.gh/explore-institutions/; https://gtec.edu.gh/institutions/",
+    "regulator_status": "official_GTEC_category_pages_transcribed_27_active_university_and_24_active_chartered_private_tertiary_entries_last_modified_2026-08-12",
+    "deep_profile_count": 1
+  },
+  {
+    "country": "Guinea",
+    "country_iso2": "GN",
+    "wikidata_count": 40,
+    "regulator_url": "https://mesrs.gov.gn/discours-de-madame-la-ministre-a-la-ceremonie-de-proclamation-des-resultats-definitifs-des-evaluations-et-de-remise-des-attestations-daccreditation-dhabilitation-institutionnelle-et/",
+    "regulator_status": "official_ministry_speech_named_partial_ranking_laureats_only",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Guinea-Bissau",
+    "country_iso2": "GW",
+    "wikidata_count": 29,
+    "regulator_url": "https://quanef-gb.com/",
+    "regulator_status": "official_QUANEF-GB_and_MENES_higher_education_institutions_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Kenya",
+    "country_iso2": "KE",
+    "wikidata_count": 61,
+    "regulator_url": "https://www.cue.or.ke/index.php?option=com_content&view=article&id=21&Itemid=189; https://www.cue.or.ke/images/2026/Institutional_Accreditation/Approved_Universities_15th_September_2026.pdf",
+    "regulator_status": "official_CUE_register_2026-09-15_transcribed_68_universities_5_specialized_awarding_institutions_16_other_categories",
+    "deep_profile_count": 5
+  },
+  {
+    "country": "Lesotho",
+    "country_iso2": "LS",
+    "wikidata_count": 0,
+    "regulator_url": "https://www.che.ac.ls/public/; https://www.che.ac.ls/private-institutions/",
+    "regulator_status": "official_CHE_public_and_private_institution_pages_transcribed_14_listings_accessed_2026-09-28; page_does_not_state_institution_wide_accreditation_status",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Liberia",
+    "country_iso2": "LR",
+    "wikidata_count": 25,
+    "regulator_url": "https://moe.gov.lr/",
+    "regulator_status": "official_NCHE_recognized_universities_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Libya",
+    "country_iso2": "LY",
+    "wikidata_count": 56,
+    "regulator_url": "https://mohe.edu.ly/",
+    "regulator_status": "partial_Ministry_technical_support_directory_captured_27_university_named_entries_accessed_2026-09-28; source_is_not_an_accreditation_register",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Madagascar",
+    "country_iso2": "MG",
+    "wikidata_count": 9,
+    "regulator_url": "https://www.mesupres.gov.mg/front/rattache_dgsup",
+    "regulator_status": "official_MESUPRES_attached_higher_education_bodies_page_transcribed_19_university_named_entries_accessed_2026-09-28",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Malawi",
+    "country_iso2": "MW",
+    "wikidata_count": 22,
+    "regulator_url": "https://www.nche.ac.mw/downloads/Registered%20and%20Accredited%20Institutions.pdf",
+    "regulator_status": "official_NCHE_register_October_2024_transcribed_52_HEIs_19_public_33_private_including_distinct_registration_categories_and_two_withdrawn_accreditations",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Mali",
+    "country_iso2": "ML",
+    "wikidata_count": 33,
+    "regulator_url": "https://dg-enseignementsup.ml/rubrique/universites/universites-publiques/; https://dg-enseignementsup.ml/rubrique/universites/grandes-ecoles-et-instituts-publics/; https://dg-enseignementsup.ml/rubrique/universites/etablissements-prives-denseignement-superieur/",
+    "regulator_status": "partial_official_DGESRS_public_universities_and_specialist_institutions_transcribed_9_entries_accessed_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Mauritania",
+    "country_iso2": "MR",
+    "wikidata_count": 10,
+    "regulator_url": "https://www.mesrs.gov.mr/fr/etablissements",
+    "regulator_status": "official_MESRS_public_private_establishment_directory_transcribed_17_public_and_10_private_entries_accessed_2026-09-28",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Mauritius",
+    "country_iso2": "MU",
+    "wikidata_count": 7,
+    "regulator_url": "https://www.hec.mu/hei; https://www.hec.mu/private_institution_search_all_data.php",
+    "regulator_status": "official_HEC_page_lists_9_public_HEIs; private_register_feed_returns_35_records_on_2026-09-28 (page narrative says 33 as_of_2024-11)",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Morocco",
+    "country_iso2": "MA",
+    "wikidata_count": 46,
+    "regulator_url": "https://www.aneaq.ma/en/moroccan-universities/",
+    "regulator_status": "official_ANEAQ_page_transcribed_14_public_heading_5_state_partnership_5_ministry_authorized_private_university_rows_accessed_2026-09-28",
+    "deep_profile_count": 1
+  },
+  {
+    "country": "Mozambique",
+    "country_iso2": "MZ",
+    "wikidata_count": 8,
+    "regulator_url": "https://cnaq.gov.mz/",
+    "regulator_status": "official_CNAQ_divulgacao_and_estatisticas_57_HEIs_captured_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Namibia",
+    "country_iso2": "NA",
+    "wikidata_count": 2,
+    "regulator_url": "https://www.namqa.org/",
+    "regulator_status": "official_NAMQA_register_preface_captured_2_public_national_universities_2026-05-21",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Niger",
+    "country_iso2": "NE",
+    "wikidata_count": 16,
+    "regulator_url": "https://campusniger.com/",
+    "regulator_status": "official_MESRIT_and_CampusNiger_university_network_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Nigeria",
+    "country_iso2": "NG",
+    "wikidata_count": 374,
+    "regulator_url": "https://www.nuc.edu.ng/nigerian-univerisities/",
+    "regulator_status": "official_NUC_directory_pages_transcribed_328_federal_state_and_private_universities_accessed_2026-09-28",
+    "deep_profile_count": 3
+  },
+  {
+    "country": "Rwanda",
+    "country_iso2": "RW",
+    "wikidata_count": 26,
+    "regulator_url": "https://www.hec.gov.rw/accredited-institutions",
+    "regulator_status": "official_HEC_public_institutions_and_2025_private_operating_roster_transcribed_37_entries",
+    "deep_profile_count": 1
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "country_iso2": "ST",
+    "wikidata_count": 0,
+    "regulator_url": "https://www.ustp-edu-st.com/",
+    "regulator_status": "official_MEES_higher_education_institutions_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Senegal",
+    "country_iso2": "SN",
+    "wikidata_count": 19,
+    "regulator_url": "https://mesrisenegal.sn",
+    "regulator_status": "partial_official_MESRI_site_institution_links_transcribed_15_entries_2026-09-29",
+    "deep_profile_count": 1
+  },
+  {
+    "country": "Seychelles",
+    "country_iso2": "SC",
+    "wikidata_count": 0,
+    "regulator_url": "https://www.unisey.ac.sc",
+    "regulator_status": "lead_only_UniSey_institutional_registration_claim_documented_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Sierra Leone",
+    "country_iso2": "SL",
+    "wikidata_count": 22,
+    "regulator_url": "https://mthe.gov.sl",
+    "regulator_status": "partial_official_MTHE_homepage_universities_menu_transcribed_8_entries_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Somalia",
+    "country_iso2": "SO",
+    "wikidata_count": 45,
+    "regulator_url": "https://moe.gov.so/",
+    "regulator_status": "official_NCHE_and_Ministry_recognized_universities_documented_2026-09-30",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "South Africa",
+    "country_iso2": "ZA",
+    "wikidata_count": 63,
+    "regulator_url": "https://www.dhet.gov.za",
+    "regulator_status": "official_DHET_university_directory_captured_24_public_universities; 212-page_private_register_downloaded_and_OCRed",
+    "deep_profile_count": 4
+  },
+  {
+    "country": "South Sudan",
+    "country_iso2": "SS",
+    "wikidata_count": 32,
+    "regulator_url": "https://mohest.gov.ss",
+    "regulator_status": "lead_only_MoHEST_homepage_university_mentions_transcribed_5_entries_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Sudan",
+    "country_iso2": "SD",
+    "wikidata_count": 57,
+    "regulator_url": "https://mohe.gov.sd",
+    "regulator_status": "official_MoHE_directory_transcribed_166_institutions_across_5_categories_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Tanzania",
+    "country_iso2": "TZ",
+    "wikidata_count": 43,
+    "regulator_url": "https://www.tcu.go.tz",
+    "regulator_status": "official_TCU_register_dated_2026-08-11_transcribed_61_approved_university_institutions",
+    "deep_profile_count": 1
+  },
+  {
+    "country": "Togo",
+    "country_iso2": "TG",
+    "wikidata_count": 25,
+    "regulator_url": "https://edusup.gouv.tg",
+    "regulator_status": "official_MESR_accredited_HEIs_image_and_transcription_20_establishments_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Tunisia",
+    "country_iso2": "TN",
+    "wikidata_count": 71,
+    "regulator_url": "https://www.mes.tn",
+    "regulator_status": "official_MES_university_directory_transcribed_13_public_universities; 9-page_private_list_retained_in_Arabic",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Uganda",
+    "country_iso2": "UG",
+    "wikidata_count": 66,
+    "regulator_url": "https://unche.or.ug/institutions/",
+    "regulator_status": "official_NCHE_licensed_institutions_transcribed_64_universities_accessed_2026-09-28",
+    "deep_profile_count": 1
+  },
+  {
+    "country": "Zambia",
+    "country_iso2": "ZM",
+    "wikidata_count": 25,
+    "regulator_url": "https://online.hea.org.zm/registry; https://online.hea.org.zm/api/heis",
+    "regulator_status": "official_HEA_live_registry_API_transcribed_215_records_2026-09-29",
+    "deep_profile_count": 0
+  },
+  {
+    "country": "Zimbabwe",
+    "country_iso2": "ZW",
+    "wikidata_count": 10,
+    "regulator_url": "https://www.zimche.ac.zw",
+    "regulator_status": "official_ZIMCHE_register_June_2024_transcribed_20_degree-offering_institutions",
+    "deep_profile_count": 0
+  }
+]

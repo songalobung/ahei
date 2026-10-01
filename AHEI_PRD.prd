@@ -1,0 +1,130 @@
+# AHEI Product Requirements Document
+
+**Product:** African Higher Education Index (AHEI)  
+**Version:** 1.0  
+**Status:** Initial development baseline  
+**Source:** Synthesized from the AHEI Requirements, Design & Architecture, and Task Breakdown documents.
+
+## 1. Product vision
+
+AHEI is an Africa-first higher-education intelligence platform that helps students, families, researchers, and institutions understand and compare African universities using structured, sourced, transparent information.
+
+The public site is the discovery layer. The core product is the trusted dataset, its provenance and verification workflows, and a reproducible ranking system.
+
+## 2. Product goals
+
+- Make African university, program, admissions, tuition, scholarship, and ranking information easier to discover and compare.
+- Make consequential factual claims traceable to sources, verification status, and freshness.
+- Publish explainable rankings generated from versioned methodologies and reproducible input snapshots.
+- Give AHEI researchers and administrators safe tools to maintain and review the underlying data.
+- Start with a focused set of launch markets and expand coverage as the research and verification process matures.
+- Use a free-to-start technology stack that can be upgraded without replacing the core application or database.
+
+## 3. Non-goals for the initial release
+
+- Processing university applications or visas.
+- Publishing ranking-critical values directly from AI without human review.
+- Covering every African institution comprehensively on launch day.
+- Selling ranking positions or guaranteeing outcomes to commercial partners.
+- Launching a general social network, accommodation marketplace, or student review platform.
+- Building a separate microservice for every domain or adopting paid search infrastructure before it is needed.
+
+## 4. Users
+
+| User | Primary need | Initial priority |
+| --- | --- | --- |
+| Prospective student | Find and compare universities and programs | P0 |
+| Parent or guardian | Assess quality, recognition, cost, and value | P0 |
+| AHEI researcher or administrator | Research, verify, and maintain data | P0 |
+| Researcher or analyst | Understand sources, methodology, and historical results | P1 |
+| University representative | Submit factual corrections or profile information | P1 |
+
+## 5. Initial product scope
+
+### Public experience
+
+- Homepage with search and entry points to Africa, regional, country, and subject rankings.
+- Search for universities, countries, cities, programs, and subjects.
+- Indexable university profiles generated from structured records.
+- Published ranking pages with scores, methodology references, confidence, and available history.
+- University comparison for up to four institutions.
+- Program directory and university-to-program relationships.
+- Verified tuition, admissions, scholarship, and recognition information where available.
+- Clear source attribution, verification status, and freshness indicators for consequential data.
+- Responsive, keyboard-usable interfaces and stable canonical URLs.
+
+### Research and administration
+
+- Role-based access for administrators, data administrators, researchers, and editors.
+- Create and edit university, program, source, and observation records.
+- Field-level provenance and verification workflow.
+- Verification queue with approve, reject, conflict, and assignment actions.
+- Ranking edition configuration, calculation, review, and publication workflow.
+- Audit trail for consequential data and administrative changes.
+
+### Deferred capabilities
+
+AI-assisted research, student matching, student reviews, deadline alerts, institutional analytics, and a data API are candidates for later releases. AI-generated research must enter the same review workflow as other proposals and must not silently publish ranking-critical data.
+
+## 6. Data and trust requirements
+
+- Keep missing data missing; do not silently replace it with zero or an invented estimate.
+- Label estimates and derived values distinctly from measured values.
+- Store source, publisher, collection and verification dates, extraction method, reviewer, confidence, effective date, and transformation notes where applicable.
+- Support draft, pending verification, verified, conflicting, stale, and archived states.
+- Preserve historic ranking editions, methodology versions, and the input snapshot used to calculate results.
+- Keep commercial products and sponsorship isolated from ranking computation.
+- Respect source licensing, copyright, and usage constraints.
+- Log sensitive administrative actions and protect privileged accounts with least privilege and MFA before production access.
+
+## 7. Ranking requirements
+
+- Support Africa-wide, regional, country, and subject ranking views.
+- Make weights and thresholds configurable by methodology version.
+- Normalize metrics and document the transformations.
+- Apply explicit missing-data, minimum-coverage, confidence, and tie-handling rules.
+- Produce deterministic results for identical inputs and methodology versions.
+- Require review before publication; retain prior editions as historical records.
+- Attribute third-party rankings separately from AHEI rankings.
+
+## 8. Non-functional requirements
+
+- Server-render public content for discoverability and fast initial rendering.
+- Use responsive layouts and target WCAG 2.2 AA practices.
+- Validate inputs at application boundaries and enforce database authorization with row-level security.
+- Keep privileged credentials out of browser code.
+- Provide structured application logs, job statuses, ranking run identifiers, and failure reasons.
+- Use migrations and automated tests for repeatable changes.
+- Design the relational model and APIs to grow without requiring an initial microservices architecture.
+
+## 9. Initial success measures
+
+- A user can navigate from Africa to a region, country, university, and program without dead ends.
+- The first ranking edition can be calculated, reviewed, published, and reproduced from its stored snapshot.
+- High-impact published metrics display provenance and verification metadata.
+- University profiles are rendered from database records rather than hand-coded pages.
+- A comparison of up to four universities works on desktop and mobile.
+- Administrators can create, edit, verify, and audit core data.
+- Search-to-profile engagement, verified data coverage, data freshness, comparison usage, and correction resolution time can be measured.
+
+## 10. Recommended initial implementation
+
+- Next.js and TypeScript for the web application and server-side routes.
+- PostgreSQL, Supabase Auth, Storage, and row-level security through Supabase.
+- Vercel for an initial Next.js deployment, subject to current plan terms and usage limits.
+- PostgreSQL full-text and trigram search for the initial directory.
+- A tested TypeScript ranking package within the application repository.
+- Markdown or MDX for initial methodology and editorial content.
+- GitHub, GitHub Actions, Vitest, and Playwright for source control, CI, unit tests, and end-to-end tests.
+
+Use free tiers for development and early validation where suitable. Review provider terms, quotas, backup behavior, and commercial eligibility before production. Upgrade managed services as usage and reliability requirements grow; keep data portable through PostgreSQL migrations and exports.
+
+## 11. Release sequence
+
+1. Foundation: repository, app shell, environment validation, CI, and design tokens.
+2. Data foundation: countries, regions, universities, programs, sources, observations, verification, audit, and row-level security.
+3. First vertical slice: one complete university record flow from source to verified public profile.
+4. Ranking engine: methodology configuration, normalization, missing-data rules, confidence, deterministic ordering, and snapshots.
+5. Public discovery: rankings, profiles, search, programs, and comparison.
+6. Administration, accessibility, security, SEO, performance, and launch validation.
+7. Post-MVP: AI-assisted research, student match, alerts, reviews, analytics, and API capabilities.

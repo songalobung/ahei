@@ -1,0 +1,303 @@
+﻿
+=== Burundi OCR QA (49 rows) ===
+File: burundi_MINESRS_institutions_named_in_2024-2025_census.csv
+  ISSUES FOUND: 49
+  POSSIBLE_MERGE: 'Université du Burundi (UB)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université des Grands Lacs (UGL)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Ecole Normale Supérieure (ENS)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur de Police (ISP)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Burundi Shining Star University (BSSU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université de Ngozi' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université du Lac Tanganyika (ULT)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Sagesse d'Afrique (USA)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Lumière de Bujumbura (ULBU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Espoir d'Afrique (UEA)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Polytechnique de Gitega (UPG)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur Paramédical de Gitega (ISPGI)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Panafricaine les Mages (UPM)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Martin Luther King (UMLK)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université de Mwaro (IJM)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut National de Santé Publique (INSP)' has long uppercase sequence
+  POSSIBLE_MERGE: 'East African Leadership Institute (EALI)' has long uppercase sequence
+  POSSIBLE_MERGE: 'East Africa Star University (EASU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Bujumbura International University (BIU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Grand Séminaire Saint Curé d'Ars de Bujumbura (GSB)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur des Techniques de Gestion (ISTG)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur de la Gestion des Entreprises (ISGE)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur des Cadres Militaires (ISCAM)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Grand Séminaire Jean Paul II' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur de Gestion et d'Informatique (ISGI)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Grand Séminaire Saint Pierre Claver de Burasira' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Universitaire des Sciences de la Santé et du Développement (INUSSAD)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Universitaire Le Central d'Afrique (IUNICA)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Polytechnique Intégrée de Cibitoke (UPI)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Grand Séminaire Saint Charles Lwanga de Kiryama' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut International d'Informatique, Télécommunications et Technologies Avancées (INITELEMATIQUE)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Paix et Réconciliation' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Catéchétique de Muyange' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur d'Analyse Médicale et Gestion' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Polyvalent de Matana' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur LE MERITE' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur de Gestion et de Développement de Muzinda (ISGD)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Summit International Institute (SII)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur d'Entrepreneuriat et de Gestion (ISEG)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Universitaire du Lac de Kirundo' has long uppercase sequence
+  POSSIBLE_MERGE: 'Bujumbura Christian University (BCU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Livingstone University College (LUC)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur Islamique de Muyinga (ISIM)' has long uppercase sequence
+  POSSIBLE_MERGE: 'International Leadership University of Burundi' has long uppercase sequence
+  POSSIBLE_MERGE: 'Université Laudato Si le Palmier (ULP)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur Technique de Bubanza (ISTB)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Olivia University of Bujumbura' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur Nelson Mandela' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Universitaire Soleil d'Afrique' has long uppercase sequence
+  Sample names (first 5):
+    - Université du Burundi (UB)
+    - Université des Grands Lacs (UGL)
+    - Ecole Normale Supérieure (ENS)
+    - Institut Supérieur de Police (ISP)
+    - Burundi Shining Star University (BSSU)
+
+=== Eswatini OCR QA (7 rows) ===
+File: eswatini_ESHEC_university_named_entries_2026-01.csv
+  ISSUES FOUND: 7
+  POSSIBLE_MERGE: 'University of Eswatini' has long uppercase sequence
+  POSSIBLE_MERGE: 'Eswatini Medical Christian University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Limkokwing University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Southern Africa Nazarene University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Sotho University Eswatini Campus' has long uppercase sequence
+  POSSIBLE_MERGE: 'Springfield Research University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Amadi University College' has long uppercase sequence
+  Sample names (first 5):
+    - University of Eswatini
+    - Eswatini Medical Christian University
+    - Limkokwing University
+    - Southern Africa Nazarene University
+    - Sotho University Eswatini Campus
+
+=== Kenya OCR QA (89 rows) ===
+File: kenya_CUE_approved_universities_2026-09-15.csv
+  ISSUES FOUND: 89
+  POSSIBLE_MERGE: 'University of Nairobi' has long uppercase sequence
+  POSSIBLE_MERGE: 'Moi University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kenyatta University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Egerton University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Jomo Kenyatta University of Agriculture and Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Maseno University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Masinde Muliro University of Science and Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Dedan Kimathi University of Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Chuka University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Technical University of Kenya' has long uppercase sequence
+  POSSIBLE_MERGE: 'Technical University of Mombasa' has long uppercase sequence
+  POSSIBLE_MERGE: 'Pwani University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kisii University' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Eldoret' has long uppercase sequence
+  POSSIBLE_MERGE: 'Maasai Mara University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Jaramogi Oginga Odinga University of Science and Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Laikipia University' has long uppercase sequence
+  POSSIBLE_MERGE: 'South Eastern Kenya University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Meru University of Science and Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Multimedia University of Kenya' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Kabianga' has long uppercase sequence
+  POSSIBLE_MERGE: 'Karatina University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kibabii University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Rongo University' has long uppercase sequence
+  POSSIBLE_MERGE: 'The Co-operative University of Kenya' has long uppercase sequence
+  POSSIBLE_MERGE: 'Taita Taveta University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Murang'a University of Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Embu' has long uppercase sequence
+  POSSIBLE_MERGE: 'Machakos University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kirinyaga University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Garissa University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Alupe University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kaimosi Friends University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Tom Mboya University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Tharaka University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Bomet University' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Eastern Africa Baraton' has long uppercase sequence
+  POSSIBLE_MERGE: 'Catholic University of Eastern Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'Daystar University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Scott Christian University' has long uppercase sequence
+  POSSIBLE_MERGE: 'United States International University-Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'Africa Nazarene University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kenya Methodist University' has long uppercase sequence
+  POSSIBLE_MERGE: 'St. Paul's University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Pan Africa Christian University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Strathmore University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kabarak University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mount Kenya University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Africa International University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kenya Highlands Evangelical University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Great Lakes University of Kisumu' has long uppercase sequence
+  POSSIBLE_MERGE: 'KCA University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Adventist University of Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'KAG EAST University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Umma University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Presbyterian University of East Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'Aga Khan University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kiriri Women's University of Science and Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'The East African University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Zetech University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Lukenya University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Management University of Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'Tangaza University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Islamic University of Kenya' has long uppercase sequence
+  POSSIBLE_MERGE: 'Riara University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Uzima University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Gretsa University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Amref International University' has long uppercase sequence
+  POSSIBLE_MERGE: 'National Defence University-Kenya' has long uppercase sequence
+  POSSIBLE_MERGE: 'Open University of Kenya' has long uppercase sequence
+  POSSIBLE_MERGE: 'National Intelligence Research University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kenya Advanced Institute of Science and Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kenya Medical Research Institute' has long uppercase sequence
+  POSSIBLE_MERGE: 'Turkana University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Koitaleel Samoei University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mama Ngina University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Nyandarua University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kabarnet University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Makueni University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kerio Valley University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Hekima University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Marist International University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Pioneer International University' has long uppercase sequence
+  POSSIBLE_MERGE: 'International Leadership University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Consolata International University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Outspan Global University' has long uppercase sequence
+  POSSIBLE_MERGE: 'The African Talent University' has long uppercase sequence
+  POSSIBLE_MERGE: 'East Kenya Integrated University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kamagambo University' has long uppercase sequence
+  Sample names (first 5):
+    - University of Nairobi
+    - Moi University
+    - Kenyatta University
+    - Egerton University
+    - Jomo Kenyatta University of Agriculture and Technology
+
+=== Rwanda OCR QA (33 rows) ===
+File: rwanda_HEC_private_operating_higher_learning_institutions_2025.csv
+  ISSUES FOUND: 33
+  POSSIBLE_MERGE: 'Independent University of Kigali' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institute of Lay Adventists of Kigali' has long uppercase sequence
+  POSSIBLE_MERGE: 'Catholic University of Rwanda' has long uppercase sequence
+  POSSIBLE_MERGE: 'Adventist University of Central Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Catholique de Kabgayi' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut d'Enseignement Supérieur de Ruhengeri' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Polytechnique de Byumba' has long uppercase sequence
+  POSSIBLE_MERGE: 'Rwanda Tourism University College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institut Supérieur Pédagogique de Gitwe' has long uppercase sequence
+  POSSIBLE_MERGE: 'Protestant Institute of Arts and Social Sciences' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mount Kigali University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kibogora Polytechnic' has long uppercase sequence
+  POSSIBLE_MERGE: 'Carnegie Mellon University Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Kigali' has long uppercase sequence
+  POSSIBLE_MERGE: 'East African University Rwanda' has long uppercase sequence
+  POSSIBLE_MERGE: 'Ruli Higher Institute of Health' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Global Health Equity' has long uppercase sequence
+  POSSIBLE_MERGE: 'African Institute of Mathematical Sciences - Rwanda' has long uppercase sequence
+  POSSIBLE_MERGE: 'African Leadership University' has long uppercase sequence
+  POSSIBLE_MERGE: 'College of Surgeons of East, Central and Southern Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'VATEL School Rwanda' has long uppercase sequence
+  POSSIBLE_MERGE: 'Oklahoma Christian University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Rwanda Institute for Conservation Agriculture' has long uppercase sequence
+  POSSIBLE_MERGE: 'African College of Theology' has long uppercase sequence
+  POSSIBLE_MERGE: 'East African Christian College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kepler College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Hanika Anglican Integrated Polytechnic' has long uppercase sequence
+  POSSIBLE_MERGE: 'Muhabura Integrated Polytechnic College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Saint Joseph Integrated Technical College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Nyamirambo ULK Polytechnic' has long uppercase sequence
+  POSSIBLE_MERGE: 'Africa Health Sciences University' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Medical Science and Technology - UMST' has long uppercase sequence
+  POSSIBLE_MERGE: 'Cross African School of Governance - ASG' has long uppercase sequence
+  Sample names (first 5):
+    - Independent University of Kigali
+    - Institute of Lay Adventists of Kigali
+    - Catholic University of Rwanda
+    - Adventist University of Central Africa
+    - Institut Catholique de Kabgayi
+
+=== Tanzania OCR QA (61 rows) ===
+File: tanzania_TCU_university_institutions_2026-08-11.csv
+  ISSUES FOUND: 45
+  POSSIBLE_MERGE: 'University of Dar es Salaam (UDSM)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Sokoine University of Agriculture (SUA)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Open University of Tanzania (OUT)' has long uppercase sequence
+  POSSIBLE_MERGE: 'State University of Zanzibar (SUZA)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mzumbe University (MU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Nelson Mandela African Institution of Science and Technology (NM-AIST)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Ardhi University (ARU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Dodoma (UDOM)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mbeya University of Science and Technology (MUST)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Moshi Cooperative University (MoCU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mwalimu Nyerere University of Agriculture and Technology (MNUAT)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kairuki University (KU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Zanzibar University (ZU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Aga Khan University (AKU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Arusha (UoA)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Teofilo Kisanji University (TEKU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Muslim University of Morogoro (MUM)' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Iringa (UoI)' has long uppercase sequence
+  POSSIBLE_MERGE: 'St. John's University of Tanzania (SJUT)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Kampala International University in Tanzania (KIUT)' has long uppercase sequence
+  POSSIBLE_MERGE: 'United African University of Tanzania (UAUT)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Ruaha Catholic University (RUCU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mwanza University (MzU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Catholic University of Mbeya (CUoM)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Rabininsia University (RU)' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Medical Sciences and Technology (UMST)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Hikmah University of East Africa (HUEA)' has long uppercase sequence
+  POSSIBLE_MERGE: 'KCMC University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Dar es Salaam University College of Education (DUCE)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mkwawa University College of Education (MUCE)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mzumbe University - Dar es Salaam Campus College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mzumbe University - Mbeya Campus College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mbeya University of Science and Technology - Rukwa Campus College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Sokoine University of Agriculture Mizengo Pinda Campus College (SUA MPC)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mbeya University of Science and Technology - Mtwara Campus College of Technical Education (MUST MCCTE)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Ardhi University - Mwanza Campus College (ARU-MCC)' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Dar es Salaam - Kagera Campus College' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Dar es Salaam - Lindi Campus College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Mzumbe University - Tanga Campus College' has long uppercase sequence
+  POSSIBLE_MERGE: 'Jordan University College (JUCO)' has long uppercase sequence
+  POSSIBLE_MERGE: 'St. Francis University College of Health and Allied Sciences (SFUCHAS)' has long uppercase sequence
+  POSSIBLE_MERGE: 'Institute of Marine Sciences (IMS)' has long uppercase sequence
+  POSSIBLE_MERGE: 'St. Augustine University of Tanzania - Dar es Salaam Centre' has long uppercase sequence
+  POSSIBLE_MERGE: 'Stefano Moshi Memorial University College - Mwika Centre' has long uppercase sequence
+  POSSIBLE_MERGE: 'St. Augustine University of Tanzania - Arusha Centre' has long uppercase sequence
+  Sample names (first 5):
+    - University of Dar es Salaam (UDSM)
+    - Sokoine University of Agriculture (SUA)
+    - Open University of Tanzania (OUT)
+    - State University of Zanzibar (SUZA)
+    - Mzumbe University (MU)
+
+=== Zimbabwe OCR QA (20 rows) ===
+File: zimbabwe_ZIMCHE_registered_degree_institutions_2024-06.csv
+  ISSUES FOUND: 20
+  POSSIBLE_MERGE: 'Africa University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Arrupe Jesuit University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Bindura University of Science Education' has long uppercase sequence
+  POSSIBLE_MERGE: 'Catholic University of Zimbabwe' has long uppercase sequence
+  POSSIBLE_MERGE: 'Chinhoyi University of Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Great Zimbabwe University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Gwanda State University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Harare Institute of Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Manicaland State University of Applied Sciences' has long uppercase sequence
+  POSSIBLE_MERGE: 'Marondera University of Agricultural Sciences and Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Midlands State University' has long uppercase sequence
+  POSSIBLE_MERGE: 'National University of Science and Technology' has long uppercase sequence
+  POSSIBLE_MERGE: 'Lupane State University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Reformed Church University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Solusi University' has long uppercase sequence
+  POSSIBLE_MERGE: 'University of Zimbabwe' has long uppercase sequence
+  POSSIBLE_MERGE: 'Women's University in Africa' has long uppercase sequence
+  POSSIBLE_MERGE: 'Zimbabwe Ezekiel Guti University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Zimbabwe National Defence University' has long uppercase sequence
+  POSSIBLE_MERGE: 'Zimbabwe Open University' has long uppercase sequence
+  Sample names (first 5):
+    - Africa University
+    - Arrupe Jesuit University
+    - Bindura University of Science Education
+    - Catholic University of Zimbabwe
+    - Chinhoyi University of Technology

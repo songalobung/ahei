@@ -1,0 +1,24 @@
+﻿Result: "URL:https://mesrsfp.gouv.td/universites-detat/
+HEADS:Annuaires du Ministère // Documentation // Photos // Calendrier // Galérie Vidéo // Universités d’Etat
+INTRO:LA CNESP TIENT SA SESSION ORDINAIRE À N’DJAMENA Un examen rigoureux des dossiers des institutions d’enseignement supérieur privé pour renforcer la qualité et la régulation du secteur ~ ENSEIGNEMENT SUPÉRIEUR PRIVÉ : LE MESRSFP ET LES ÉTABLISSEMENTS PRIVÉS S’ACCORDENT SUR L’ORGANISATION DE LA LICENCE NATIONALE ~ LA CNESP TIENT SA SESSION ORDINAIRE À N’DJAMENA Un examen rigoureux des dossiers des institutions d’enseignement supérieur privé pour renforcer la qualité et la régulation du secteur ~ Home » Universités d’Etat ~ Universités d’Etat ~ Le Ministère de l’Enseignement Supérieur compte (13) universités réparties dans différentes provinces du Tchad, le résumé est sur le tableau ci-dessous. ~ Effectif des Étudiants et Enseignants, à l’Université Public du Tchad 2023-2024 ~ Chers acteurs et partenaires de l’Enseignement supérieur au Tchad : Etudiants, Enseignants-Chercheurs, Partenaires Techniques et Financiers (PTF), Promoteurs des Instituts privés, visiteurs de notre site ;
+TABLE#0
+L | M | M | J | V | S | D
+ | 1 | 2 | 3 | 4 | 5 | 6
+7 | 8 | 9 | 10 | 11 | 12 | 13
+14 | 15 | 16 | 17 | 18 | 19 | 20
+21 | 22 | 23 | 24 | 25 | 26 | 27
+28 | 29 | 30 | 
+
+@@@@@
+
+URL:https://mesrsfp.gouv.td/institutions-sous-tutelle/
+HEADS:Annuaires du Ministère // Documentation // Photos // Calendrier // Galérie Vidéo // Institutions Sous-Tutelle
+INTRO:LA CNESP TIENT SA SESSION ORDINAIRE À N’DJAMENA Un examen rigoureux des dossiers des institutions d’enseignement supérieur privé pour renforcer la qualité et la régulation du secteur ~ ENSEIGNEMENT SUPÉRIEUR PRIVÉ : LE MESRSFP ET LES ÉTABLISSEMENTS PRIVÉS S’ACCORDENT SUR L’ORGANISATION DE LA LICENCE NATIONALE ~ LA CNESP TIENT SA SESSION ORDINAIRE À N’DJAMENA Un examen rigoureux des dossiers des institutions d’enseignement supérieur privé pour renforcer la qualité et la régulation du secteur ~ Le Ministère de l’Enseignement Supérieur a sous sa tutelle plusieurs établissements de se décline sur le schéma ci-dessous ~ Chers acteurs et partenaires de l’Enseignement supérieur au Tchad : Etudiants, Enseignants-Chercheurs, Partenaires Techniques et Financiers (PTF), Promoteurs des Instituts privés, visiteurs de notre site ;
+TABLE#0
+L | M | M | J | V | S | D
+ | 1 | 2 | 3 | 4 | 5 | 6
+7 | 8 | 9 | 10 | 11 | 12 | 13
+14 | 15 | 16 | 17 | 18 | 19 | 20
+21 | 22 | 23 | 24 | 25 | 26 | 27
+28 | 29 | 30 | "
+

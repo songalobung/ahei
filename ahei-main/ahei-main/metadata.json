@@ -1,0 +1,6 @@
+{
+  "name": "AHEI - African Higher Education Index",
+  "description": "The authoritative, peer-reviewed continental academic registry and university rankings evaluating higher-education institutions across 54 African countries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

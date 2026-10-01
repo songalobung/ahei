@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AHEI-CLAIM-2026-0001",
+    "createdAt": "2026-10-01T18:30:00.000Z",
+    "institutionId": "za-unive-001",
+    "institutionName": "University of Cape Town",
+    "country": "South Africa",
+    "claimType": "FULL_PROFILE_VERIFICATION",
+    "claimant": {
+      "fullName": "Dr. Phumelele Khumalo",
+      "email": "p.khumalo@uct.ac.za",
+      "designation": "Director of Institutional Planning & Gazette Liaison",
+      "phone": "+27 21 650 9111"
+    },
+    "evidence": {
+      "sourceDocumentUrl": "https://www.uct.ac.za/main/about/leadership",
+      "gazetteReference": "DHET South Africa HEI Registry Gazette 2026/04",
+      "verificationNotes": "Updated Vice-Chancellor to Prof. Mosa Moshabela following official installation. Confirmed 2026/2027 statutory tuition fee schedule for domestic undergraduate programs."
+    },
+    "profileData": {
+      "name": "University of Cape Town",
+      "nativeMotto": "Spes Bona",
+      "viceChancellor": "Prof. Mosa Moshabela",
+      "primaryAccreditation": "Council on Higher Education (CHE) & DHET South Africa",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "region": "Southern Africa",
+      "type": "Public Chartered Flagship",
+      "estYear": 1829,
+      "charterYear": 1918,
+      "website": "https://www.uct.ac.za",
+      "campusesCount": 6,
+      "campusesList": ["Upper Campus (Rondebosch)", "Middle Campus", "Lower Campus", "Health Sciences Campus (Observatory)", "Hiddingh Campus (City Bowl)", "Breakwater Campus (V&A Waterfront)"],
+      "domesticTuitionAverage": "ZAR 65,000 - 95,000",
+      "domesticTuitionUsd": "$3,500 - $5,200",
+      "internationalTuitionAnnual": "$6,800 - $14,500",
+      "averageMonthlyLiving": "$650 - $950",
+      "onCampusAccommodation": "$2,800 - $4,200 / yr",
+      "financialAidTier": "HIGH",
+      "totalEnrollment": 29500,
+      "academicStaff": 1420,
+      "phdFacultyShare": 74,
+      "studentFacultyRatio": "13.2:1",
+      "internationalDiversityPct": 18.5,
+      "degreesOfferedCount": 240,
+      "undergradDegreesCount": 85,
+      "postgradDegreesCount": 115,
+      "doctoralProgramsCount": 40,
+      "flagshipFaculties": "Health Sciences, Commerce, Humanities, Science, Engineering & Built Environment, Law"
+    },
+    "status": "APPROVED",
+    "reviewedAt": "2026-10-01T20:00:00.000Z",
+    "reviewer": "AHEI Sovereign Verification Desk"
+  }
+]
